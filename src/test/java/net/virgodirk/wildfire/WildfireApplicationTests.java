@@ -1,4 +1,4 @@
-package net.virgodirk.Wildfire;
+package net.virgodirk.wildfire;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

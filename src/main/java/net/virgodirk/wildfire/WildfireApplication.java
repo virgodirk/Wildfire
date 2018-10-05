@@ -1,4 +1,4 @@
-package net.virgodirk.Wildfire;
+package net.virgodirk.wildfire;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
