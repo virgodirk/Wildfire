@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items name="dic">
+    <item key="01" value="item-1">Item No.1</item>
+    <item key="02" value="item-2">Item No.2</item>
+    <item key="03" value="item-3">Item No.3</item>
+    <item key="04" value="item-4">Item No.4</item>
+    <item key="05" value="item-5">Item No.5</item>
+</items>

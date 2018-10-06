@@ -10,3 +10,4 @@ public class WildfireApplication {
 		SpringApplication.run(WildfireApplication.class, args);
 	}
 }
+
